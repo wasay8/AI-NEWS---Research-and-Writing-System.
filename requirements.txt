@@ -1,0 +1,9 @@
+crewai
+crewai_tools
+langchain
+langchain_google_genai
+langchain_groq
+streamlit
+python-dotenv
+SerperDevTool
+openai
